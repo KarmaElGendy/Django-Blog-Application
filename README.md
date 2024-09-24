@@ -1,4 +1,4 @@
-# Django Blog Application
+# Django Blog App
 
 ## Screenshots
 
