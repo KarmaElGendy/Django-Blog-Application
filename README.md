@@ -12,8 +12,9 @@ This is a Django Blog Application where users can create, edit, and delete blog 
 
 ## Project Structure
 
-```bash
 The following is the folder structure of this Django Blog Application:
+
+```bash
 C:.
 │   manage.py                 # Django management script
 │   posts.json                # Example blog post data
