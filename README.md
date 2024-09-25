@@ -12,6 +12,7 @@ This is a Django Blog Application where users can create, edit, and delete blog 
 
 ## Project Structure
 
+```bash
 The following is the folder structure of this Django Blog Application:
 C:.
 │   manage.py                 # Django management script
@@ -34,7 +35,7 @@ C:.
     ├───views.py              # Views for user authentication and profiles
     ├───models.py             # User models
     └───templates             # User-related templates (login, register, etc.)
-
+```
 
 ## Getting Started
 
