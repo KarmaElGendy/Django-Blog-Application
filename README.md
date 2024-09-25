@@ -2,7 +2,7 @@
 
 This is a Django Blog Application where users can create, edit, and delete blog posts, as well as register, log in, and manage profiles with profile pictures.
 
-![Poat](https://github.com/KarmaElGendy/Django-Blog-Application/blob/main/media/Newpost.png)
+![NewPost](https://github.com/KarmaElGendy/Django-Blog-Application/blob/main/media/New.png)
 
 ## Features
 - User authentication: Register, log in, log out.
